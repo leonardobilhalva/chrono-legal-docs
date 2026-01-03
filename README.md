@@ -1,6 +1,10 @@
-# Chrono - Legal Documents
+<div align="center">
+  <img src="icon.png" alt="Chrono App Icon" width="120" height="120" style="border-radius: 22%;">
 
-Official legal documentation for the Chrono sleep tracking app.
+  # Chrono - Legal Documents
+
+  Official legal documentation for the Chrono sleep tracking app.
+</div>
 
 ---
 
